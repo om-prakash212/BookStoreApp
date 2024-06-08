@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "title": "Chandrabhaga",
+        "author": "Radhanath Ray",
+        "price": 75,
+        "image": "https://m.media-amazon.com/images/I/61fXl7zm6qL._AC_UY218_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Chha Mana Atha Guntha",
+        "author": "Fakir Mohan Senapati",
+        "price": 140,
+        "image": "https://m.media-amazon.com/images/I/71ORHR4iYcL._AC_UY218_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Abana RasaTaranga",
+        "author": "KabiSamrat Upendra Bhanja",
+        "price": 40,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3mbMLntnPtqY0ASl_X2qaa6Iwhlf0ze5f17BDNGajML50KI9AiH8nL5cgGLfqsLwFZtg&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "title": "Amada Bata",
+        "author": " Basanta Kumari Patnaik",
+        "price": 240,
+        "image": "https://m.media-amazon.com/images/I/713s0Agd5+L._AC_UY218_.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Yajnaseni",
+        "author": "Pratibha Ray",
+        "price": 500,
+        "image": "https://m.media-amazon.com/images/I/41Yqx-J++VL._AC_UY218_.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Barsha Basanta Baisakha",
+        "author": "Pratibha Ray",
+        "price": 300,
+        "image": "https://m.media-amazon.com/images/I/81C5pg3yF8L._AC_UY218_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Nila Saila",
+        "author": "Surendra Mohanty",
+        "price": 274,
+        "image": "https://m.media-amazon.com/images/I/71qzbIDNqGL._AC_UY218_.jpg"
+    },
+    {
+        "id": 8,
+        "title": "danapani",
+        "author": "Gopinath Mohanty",
+        "price": 270,
+        "image": "https://m.media-amazon.com/images/I/61GJqT6pveL._AC_UY218_.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Niladri bijay",
+        "author": "Surendra Mohanty",
+        "price": 199,
+        "image": "https://m.media-amazon.com/images/I/71Js6hOne0L._AC_UY218_.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Parichayaa",
+        "author": "Pratibha Ray",
+        "price": 140,
+        "image": "https://m.media-amazon.com/images/I/81GIRyWzmFL._AC_UY218_.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Dhananjay",
+        "author": "Pratap Narayan Singh",
+        "price": 392,
+        "image": "https://m.media-amazon.com/images/I/81GIRyWzmFL._AC_UY218_.jpg"
+    },
+    {
+        "id": 12,
+        "title": "NADABINDU",
+        "author": "Shankar Tripathy",
+        "price": 200,
+        "image": "https://m.media-amazon.com/images/I/71uHxSYaxwL._AC_UY218_.jpg"
+    }
+    
+
+    
+
+]
